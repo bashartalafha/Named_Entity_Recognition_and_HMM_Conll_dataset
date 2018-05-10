@@ -1,0 +1,12 @@
+# Named Entity Recognition on Conll(2003) dataset. 
+
+## Dataset Link
+The link of the dataset - https://www.clips.uantwerpen.be/conll2003/ner/ 
+
+## Summary
+
+This project covers the following topics:
+
+* Implementation of the Hidden Markov Model on Conll 2003 dataset using seqlearn.hmm
+
+* Implementation of Conditional Random Fields using pycrfsuite. 
